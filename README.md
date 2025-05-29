@@ -4,8 +4,8 @@ This  implements a parallel k-Nearest Neighbors (k-NN) classifier using the Mess
 
 # requirements.txt
 parallel-knn-mpi/
-├── parallel_knn.py
-├── requirements.txt
-├── train.csv
-├── test.csv
-└── README.md
+- parallel_knn.py
+- requirements.txt
+- train.csv
+- test.csv
+- README.md
