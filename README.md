@@ -3,5 +3,5 @@ This  implements a parallel k-Nearest Neighbors (k-NN) classifier using the Mess
 
 
 # Install Packages from requirements.txt 
-!pip install -r requirements.txt
+!pip install -r requirement.txt
 
