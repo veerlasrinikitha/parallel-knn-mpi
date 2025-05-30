@@ -1,0 +1,6 @@
+mpi4py==4.0.3
+numpy==1.26.4
+pandas==2.1.4
+scikit-learn==1.6.1
+scipy==1.14.0
+python_version >=3.9, <3.13
