@@ -6,5 +6,7 @@ This  implements a parallel k-Nearest Neighbors (k-NN) classifier using the Mess
 - Performance Metrics: Reports accuracy, computation time, speedup, and efficiency for each configuration.
 - Scalability Analysis: Prints strong and weak scalability insights as process count or data size changes.
 # Install Packages from requirements.txt 
+```bash
 !pip install -r requirement.txt
+```
 
